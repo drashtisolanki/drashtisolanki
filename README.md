@@ -19,7 +19,7 @@
 🎯 Goal: Solve 100 LeetCode Problems
 
 📊 Progress:
-████░░░░░░ 3/100
+████░░░░░░ 4/100
 
 ---
 
