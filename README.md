@@ -31,7 +31,7 @@
 | Day 2 | Remove Element (LeetCode 27)                      | ✅      |
 | Day 3 | Next Permutation (LeetCode 31)                    | ✅      |
 | Day 4 | Search in Rotated Sorted Array (LeetCode 33)      | ✅    |
-
+| Day 5 | Find First and Last Position of Element in Sorted Array (Leetcode 34)| ✅    |
 ---
 
 ## 🛠️ Languages & Tools
