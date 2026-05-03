@@ -14,27 +14,6 @@
 
 ---
 
-## 🚀 100 Days of Code Challenge
-
-🎯 Goal: Solve 100 LeetCode Problems
-
-📊 Progress:
-████░░░░░░ 6/100
-
----
-
-## 📅 Daily Progress Tracker
-
-| Day   | Problem                                           | Status |
-| ----- | ------------------------------------------------- | ------ |
-| Day 1 | Remove Duplicates from Sorted Array (LeetCode 26) | ✅      |
-| Day 2 | Remove Element (LeetCode 27)                      | ✅      |
-| Day 3 | Next Permutation (LeetCode 31)                    | ✅      |
-| Day 4 | Search in Rotated Sorted Array (LeetCode 33)      | ✅    |
-| Day 5 | Find First and Last Position of Element in Sorted Array (Leetcode 34)| ✅    |
-| Day 6 | Search Insert Position (Leetcode 35)| ✅    |
----
-
 ## 🛠️ Languages & Tools
 
 * 💻 Python
