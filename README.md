@@ -10,7 +10,6 @@
 * 📚 Currently learning: Data Structures & Algorithms
 * 💡 Focus: Problem Solving + Consistency
 * 🎯 Goal: Crack top tech interviews
-* 🔥 Daily habit: Solving LeetCode problems
 
 ---
 
